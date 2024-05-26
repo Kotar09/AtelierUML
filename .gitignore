@@ -1,0 +1,6 @@
+# Ignorer le dossier __pycache__
+__pycache__/
+
+# Ignorer les fichiers et dossiers de compilateurs C#
+bin/
+obj/
